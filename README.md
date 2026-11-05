@@ -76,7 +76,7 @@ The system integrates a Flask-based backend, a web-based user interface, a MySQL
 
 1. Clone the repository:
 
-   `git clone YOUR_GITHUB_REPOSITORY_URL`
+   `https://github.com/Chandana-0531`
 
 2. Navigate to the project directory:
 
